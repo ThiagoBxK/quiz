@@ -1,6 +1,6 @@
 <!-- ![banner](https://raw.githubusercontent.com/lucianesantcs/selfcare/master/design/selfcare_mockup.png) -->
 
-# Quizz de Programação
+# Quizz de Filmes
 
 Mostre suas habilidades...
 
